@@ -125,7 +125,7 @@ await cap('');
 
 // 7 — outro
 mark('outro');
-await card(`<div class="tag">helm</div><h2>Money grows fastest when you never capsize.</h2><p>Agora Prime switches strategy for you, on real odds, inside the line you drew — and every move is on the ledger.</p><div class="row"><span>github.com/METHEZONE/helm</span><span>Kiln · qwen3‑32b</span><span>XRPL Testnet</span></div>`);
+await card(`<div class="tag">helm</div><h2>Money grows fastest when you never capsize.</h2><p>Agora Prime switches strategy for you, on real odds, inside the line you drew — and every move is on the ledger.</p><div class="row"><span>github.com/minsungp/helm</span><span>Kiln · qwen3‑32b</span><span>XRPL Testnet</span></div>`);
 await wait(7000);
 mark('end');
 await cdp.send('Page.stopScreencast');

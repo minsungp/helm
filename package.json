@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/METHEZONE/helm.git"
+    "url": "git+https://github.com/minsungp/helm.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/METHEZONE/helm/issues"
+    "url": "https://github.com/minsungp/helm/issues"
   },
-  "homepage": "https://github.com/METHEZONE/helm#readme",
+  "homepage": "https://github.com/minsungp/helm#readme",
   "dependencies": {
     "xrpl": "^4.6.0"
   },
